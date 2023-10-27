@@ -1,0 +1,16 @@
+{
+  "name": "bunhook",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@msgpack/msgpack": "^3.0.0-beta2",
+    "chromadb": "^1.5.11",
+    "replicate": "^0.18.0"
+  }
+}
